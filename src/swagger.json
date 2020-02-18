@@ -1,0 +1,119 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "title": "Sample Swagger",
+        "description": "Documentation and testing of your APIs",
+        "version": "1.0"
+    },
+    "produces": [
+        "application/json"
+    ],
+    "paths": {
+        "/employee": {
+            "get": {
+                "summary": "generate all Employees",
+                "operationId": "generate all Employees",
+                "tags": [
+                    "Employee"
+                ],
+                "description": "generate all Employees within the range.",
+                "parameters": [
+                    {
+                        "in": "query",
+                        "name": "offset",
+                        "type": "integer",
+                        "required": false,
+                        "description": "We can input the starting index. "
+                    },
+                    {
+                        "in": "query",
+                        "name": "end",
+                        "type": "integer",
+                        "required": false,
+                        "description": "We can input the limit of data. "
+                    }
+                ],
+                "responses": {}
+            }
+        },
+        "/asset": {
+            "get": {
+                "summary": "generate all Assets",
+                "operationId": "generate all Assets",
+                "tags": [
+                    "Asset"
+                ],
+                "description": "generate all Assets within the range.",
+                "parameters": [
+                    {
+                        "in": "query",
+                        "name": "offset",
+                        "type": "integer",
+                        "required": false,
+                        "description": "We can input the starting index. "
+                    },
+                    {
+                        "in": "query",
+                        "name": "end",
+                        "type": "integer",
+                        "required": false,
+                        "description": "We can input the limit of data. "
+                    }
+                ],
+                "responses": {}
+            }
+        },
+        "/asset/{assetId}": {
+            "get": {
+                "summary": "Return selected employee",
+                "operationId": "Return selected employee",
+                "tags": [
+                    "Asset"
+                ],
+                "description": "This will return selected employee.",
+                "parameters": [
+                    {
+                        "in": "path",
+                        "name": "assetId",
+                        "type": "integer",
+                        "required": true,
+                        "description": "We need to input the employee id "
+                    }
+                ],
+                "responses": {}
+            }
+        },
+        "/asset-allocation": {
+            "get": {
+                "summary": "generate asset allocation",
+                "operationId": "generate asset allocation",
+                "tags": [
+                    "Asset Allocation"
+                ],
+                "description": "generate asset allocation within the range.",           
+                "responses": {}
+            }
+        },
+        "/employee/{employeeId}": {
+            "get": {
+                "summary": "Return selected employee",
+                "operationId": "Return selected employee",
+                "tags": [
+                    "Employee"
+                ],
+                "description": "This will return selected employee.",
+                "parameters": [
+                    {
+                        "in": "path",
+                        "name": "employeeId",
+                        "type": "integer",
+                        "required": true,
+                        "description": "We need to input the employee id "
+                    }
+                ],
+                "responses": {}
+            }
+        }
+    },
+    "definitions": {}
+}

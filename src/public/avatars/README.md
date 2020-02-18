@@ -1,0 +1,1 @@
+## This folder contains of pictures uploaded for the Employee's Avatar.

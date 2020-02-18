@@ -1,0 +1,3959 @@
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 12:53:05'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 12:53:05'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 12:53:22'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 12:53:22'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 12:53:25'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 12:53:25'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 12:54:22'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 12:54:22'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 12:54:27'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 12:54:27'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 12:54:29'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 12:54:29'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 13:36:23'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 13:36:23'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 13:37:18'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 13:37:18'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 13:38:06'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 13:38:06'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 17:39:26'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 17:39:26'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 17:40:41'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 17:40:41'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 17:41:36'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 17:41:36'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 17:42:09'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 17:42:09'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 17:42:16'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 17:42:16'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 17:42:18'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 17:42:18'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 17:42:19'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 17:42:19'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 17:42:23'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 17:42:23'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 17:42:47'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 17:42:47'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 17:43:59'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 17:43:59'
+}
+{
+  error: SyntaxError: /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js: Unexpected token (3:0)
+  [0m [90m 1 | [39m[36mimport[39m express from [32m'express'[39m[33m;[39m
+   [90m 2 | [39m[36mconst[39m sampleRoute
+  [31m[1m>[22m[39m[90m 3 | [39m[36mconst[39m router [33m=[39m express[33m.[39m[33mRouter[39m()[33m;[39m
+   [90m   | [39m[31m[1m^[22m[39m
+   [90m 4 | [39m[36mimport[39m sampleRoute from [32m'./sampleRoute'[39m[33m;[39m
+   [90m 5 | [39m[36mconst[39m route [33m=[39m [32m'/indext/api/v1'[39m[33m;[39m
+   [90m 6 | [39m[36mexport[39m [36mdefault[39m server [33m=>[39m {[0m
+      at Parser.pp$5.raise (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:4454:13)
+      at Parser.pp.unexpected (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1761:8)
+      at Parser.pp$1.parseVar (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2342:12)
+      at Parser.pp$1.parseVarStatement (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2169:8)
+      at Parser.pp$1.parseStatement (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1861:19)
+      at Parser.pp$1.parseBlockBody (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2268:21)
+      at Parser.pp$1.parseTopLevel (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1778:8)
+      at Parser.parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1673:17)
+      at parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:7305:37)
+      at File.parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:485:15) {
+    pos: 49,
+    loc: Position { line: 3, column: 0 },
+    _babel: true,
+    codeFrame: "\u001b[0m \u001b[90m 1 | \u001b[39m\u001b[36mimport\u001b[39m express from \u001b[32m'express'\u001b[39m\u001b[33m;\u001b[39m\n" +
+      ' \u001b[90m 2 | \u001b[39m\u001b[36mconst\u001b[39m sampleRoute\n' +
+      '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 3 | \u001b[39m\u001b[36mconst\u001b[39m router \u001b[33m=\u001b[39m express\u001b[33m.\u001b[39m\u001b[33mRouter\u001b[39m()\u001b[33m;\u001b[39m\n' +
+      ' \u001b[90m   | \u001b[39m\u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+      " \u001b[90m 4 | \u001b[39m\u001b[36mimport\u001b[39m sampleRoute from \u001b[32m'./sampleRoute'\u001b[39m\u001b[33m;\u001b[39m\n" +
+      " \u001b[90m 5 | \u001b[39m\u001b[36mconst\u001b[39m route \u001b[33m=\u001b[39m \u001b[32m'/indext/api/v1'\u001b[39m\u001b[33m;\u001b[39m\n" +
+      ' \u001b[90m 6 | \u001b[39m\u001b[36mexport\u001b[39m \u001b[36mdefault\u001b[39m server \u001b[33m=>\u001b[39m {\u001b[0m'
+  },
+  level: 'error',
+  message: 'uncaughtException: /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js: Unexpected token (3:0)\n' +
+    'SyntaxError: /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js: Unexpected token (3:0)\n' +
+    "\u001b[0m \u001b[90m 1 | \u001b[39m\u001b[36mimport\u001b[39m express from \u001b[32m'express'\u001b[39m\u001b[33m;\u001b[39m\n" +
+    ' \u001b[90m 2 | \u001b[39m\u001b[36mconst\u001b[39m sampleRoute\n' +
+    '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 3 | \u001b[39m\u001b[36mconst\u001b[39m router \u001b[33m=\u001b[39m express\u001b[33m.\u001b[39m\u001b[33mRouter\u001b[39m()\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m   | \u001b[39m\u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+    " \u001b[90m 4 | \u001b[39m\u001b[36mimport\u001b[39m sampleRoute from \u001b[32m'./sampleRoute'\u001b[39m\u001b[33m;\u001b[39m\n" +
+    " \u001b[90m 5 | \u001b[39m\u001b[36mconst\u001b[39m route \u001b[33m=\u001b[39m \u001b[32m'/indext/api/v1'\u001b[39m\u001b[33m;\u001b[39m\n" +
+    ' \u001b[90m 6 | \u001b[39m\u001b[36mexport\u001b[39m \u001b[36mdefault\u001b[39m server \u001b[33m=>\u001b[39m {\u001b[0m\n' +
+    '    at Parser.pp$5.raise (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:4454:13)\n' +
+    '    at Parser.pp.unexpected (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1761:8)\n' +
+    '    at Parser.pp$1.parseVar (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2342:12)\n' +
+    '    at Parser.pp$1.parseVarStatement (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2169:8)\n' +
+    '    at Parser.pp$1.parseStatement (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1861:19)\n' +
+    '    at Parser.pp$1.parseBlockBody (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2268:21)\n' +
+    '    at Parser.pp$1.parseTopLevel (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1778:8)\n' +
+    '    at Parser.parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1673:17)\n' +
+    '    at parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:7305:37)\n' +
+    '    at File.parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:485:15)',
+  stack: 'SyntaxError: /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js: Unexpected token (3:0)\n' +
+    "\u001b[0m \u001b[90m 1 | \u001b[39m\u001b[36mimport\u001b[39m express from \u001b[32m'express'\u001b[39m\u001b[33m;\u001b[39m\n" +
+    ' \u001b[90m 2 | \u001b[39m\u001b[36mconst\u001b[39m sampleRoute\n' +
+    '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 3 | \u001b[39m\u001b[36mconst\u001b[39m router \u001b[33m=\u001b[39m express\u001b[33m.\u001b[39m\u001b[33mRouter\u001b[39m()\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m   | \u001b[39m\u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+    " \u001b[90m 4 | \u001b[39m\u001b[36mimport\u001b[39m sampleRoute from \u001b[32m'./sampleRoute'\u001b[39m\u001b[33m;\u001b[39m\n" +
+    " \u001b[90m 5 | \u001b[39m\u001b[36mconst\u001b[39m route \u001b[33m=\u001b[39m \u001b[32m'/indext/api/v1'\u001b[39m\u001b[33m;\u001b[39m\n" +
+    ' \u001b[90m 6 | \u001b[39m\u001b[36mexport\u001b[39m \u001b[36mdefault\u001b[39m server \u001b[33m=>\u001b[39m {\u001b[0m\n' +
+    '    at Parser.pp$5.raise (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:4454:13)\n' +
+    '    at Parser.pp.unexpected (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1761:8)\n' +
+    '    at Parser.pp$1.parseVar (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2342:12)\n' +
+    '    at Parser.pp$1.parseVarStatement (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2169:8)\n' +
+    '    at Parser.pp$1.parseStatement (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1861:19)\n' +
+    '    at Parser.pp$1.parseBlockBody (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2268:21)\n' +
+    '    at Parser.pp$1.parseTopLevel (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1778:8)\n' +
+    '    at Parser.parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1673:17)\n' +
+    '    at parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:7305:37)\n' +
+    '    at File.parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:485:15)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:44:51 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6031,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 57090048,
+      heapTotal: 53424128,
+      heapUsed: 19817408,
+      external: 1991257
+    }
+  },
+  os: {
+    loadavg: [ 2.94140625, 3.24365234375, 2.96240234375 ],
+    uptime: 29183
+  },
+  trace: [
+    {
+      column: 13,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp$5.raise',
+      line: 4454,
+      method: 'raise',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp.unexpected',
+      line: 1761,
+      method: 'unexpected',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp$1.parseVar',
+      line: 2342,
+      method: 'parseVar',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp$1.parseVarStatement',
+      line: 2169,
+      method: 'parseVarStatement',
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp$1.parseStatement',
+      line: 1861,
+      method: 'parseStatement',
+      native: false
+    },
+    {
+      column: 21,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp$1.parseBlockBody',
+      line: 2268,
+      method: 'parseBlockBody',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp$1.parseTopLevel',
+      line: 1778,
+      method: 'parseTopLevel',
+      native: false
+    },
+    {
+      column: 17,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.parse',
+      line: 1673,
+      method: 'parse',
+      native: false
+    },
+    {
+      column: 37,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'parse',
+      line: 7305,
+      method: null,
+      native: false
+    },
+    {
+      column: 15,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js',
+      function: 'File.parse',
+      line: 485,
+      method: 'parse',
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:44:51'
+}
+{
+  error: SyntaxError: /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js: Unexpected token (5:0)
+  [0m [90m 3 | [39m[36mconst[39m router [33m=[39m express[33m.[39m[33mRouter[39m()[33m;[39m
+   [90m 4 | [39m[36mconst[39m sampleRoute
+  [31m[1m>[22m[39m[90m 5 | [39m[36mconst[39m route [33m=[39m [32m'/indext/api/v1'[39m[33m;[39m
+   [90m   | [39m[31m[1m^[22m[39m
+   [90m 6 | [39m[36mexport[39m [36mdefault[39m server [33m=>[39m {
+   [90m 7 | [39m	server[33m.[39muse(route [33m+[39m [32m'/test'[39m[33m,[39m sampleRoute)[33m;[39m
+   [90m 8 | [39m}[33m;[39m[0m
+      at Parser.pp$5.raise (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:4454:13)
+      at Parser.pp.unexpected (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1761:8)
+      at Parser.pp$1.parseVar (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2342:12)
+      at Parser.pp$1.parseVarStatement (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2169:8)
+      at Parser.pp$1.parseStatement (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1861:19)
+      at Parser.pp$1.parseBlockBody (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2268:21)
+      at Parser.pp$1.parseTopLevel (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1778:8)
+      at Parser.parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1673:17)
+      at parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:7305:37)
+      at File.parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:485:15) {
+    pos: 123,
+    loc: Position { line: 5, column: 0 },
+    _babel: true,
+    codeFrame: '\u001b[0m \u001b[90m 3 | \u001b[39m\u001b[36mconst\u001b[39m router \u001b[33m=\u001b[39m express\u001b[33m.\u001b[39m\u001b[33mRouter\u001b[39m()\u001b[33m;\u001b[39m\n' +
+      ' \u001b[90m 4 | \u001b[39m\u001b[36mconst\u001b[39m sampleRoute\n' +
+      "\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 5 | \u001b[39m\u001b[36mconst\u001b[39m route \u001b[33m=\u001b[39m \u001b[32m'/indext/api/v1'\u001b[39m\u001b[33m;\u001b[39m\n" +
+      ' \u001b[90m   | \u001b[39m\u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+      ' \u001b[90m 6 | \u001b[39m\u001b[36mexport\u001b[39m \u001b[36mdefault\u001b[39m server \u001b[33m=>\u001b[39m {\n' +
+      " \u001b[90m 7 | \u001b[39m\tserver\u001b[33m.\u001b[39muse(route \u001b[33m+\u001b[39m \u001b[32m'/test'\u001b[39m\u001b[33m,\u001b[39m sampleRoute)\u001b[33m;\u001b[39m\n" +
+      ' \u001b[90m 8 | \u001b[39m}\u001b[33m;\u001b[39m\u001b[0m'
+  },
+  level: 'error',
+  message: 'uncaughtException: /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js: Unexpected token (5:0)\n' +
+    'SyntaxError: /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js: Unexpected token (5:0)\n' +
+    '\u001b[0m \u001b[90m 3 | \u001b[39m\u001b[36mconst\u001b[39m router \u001b[33m=\u001b[39m express\u001b[33m.\u001b[39m\u001b[33mRouter\u001b[39m()\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m 4 | \u001b[39m\u001b[36mconst\u001b[39m sampleRoute\n' +
+    "\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 5 | \u001b[39m\u001b[36mconst\u001b[39m route \u001b[33m=\u001b[39m \u001b[32m'/indext/api/v1'\u001b[39m\u001b[33m;\u001b[39m\n" +
+    ' \u001b[90m   | \u001b[39m\u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+    ' \u001b[90m 6 | \u001b[39m\u001b[36mexport\u001b[39m \u001b[36mdefault\u001b[39m server \u001b[33m=>\u001b[39m {\n' +
+    " \u001b[90m 7 | \u001b[39m\tserver\u001b[33m.\u001b[39muse(route \u001b[33m+\u001b[39m \u001b[32m'/test'\u001b[39m\u001b[33m,\u001b[39m sampleRoute)\u001b[33m;\u001b[39m\n" +
+    ' \u001b[90m 8 | \u001b[39m}\u001b[33m;\u001b[39m\u001b[0m\n' +
+    '    at Parser.pp$5.raise (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:4454:13)\n' +
+    '    at Parser.pp.unexpected (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1761:8)\n' +
+    '    at Parser.pp$1.parseVar (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2342:12)\n' +
+    '    at Parser.pp$1.parseVarStatement (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2169:8)\n' +
+    '    at Parser.pp$1.parseStatement (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1861:19)\n' +
+    '    at Parser.pp$1.parseBlockBody (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2268:21)\n' +
+    '    at Parser.pp$1.parseTopLevel (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1778:8)\n' +
+    '    at Parser.parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1673:17)\n' +
+    '    at parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:7305:37)\n' +
+    '    at File.parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:485:15)',
+  stack: 'SyntaxError: /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js: Unexpected token (5:0)\n' +
+    '\u001b[0m \u001b[90m 3 | \u001b[39m\u001b[36mconst\u001b[39m router \u001b[33m=\u001b[39m express\u001b[33m.\u001b[39m\u001b[33mRouter\u001b[39m()\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m 4 | \u001b[39m\u001b[36mconst\u001b[39m sampleRoute\n' +
+    "\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 5 | \u001b[39m\u001b[36mconst\u001b[39m route \u001b[33m=\u001b[39m \u001b[32m'/indext/api/v1'\u001b[39m\u001b[33m;\u001b[39m\n" +
+    ' \u001b[90m   | \u001b[39m\u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+    ' \u001b[90m 6 | \u001b[39m\u001b[36mexport\u001b[39m \u001b[36mdefault\u001b[39m server \u001b[33m=>\u001b[39m {\n' +
+    " \u001b[90m 7 | \u001b[39m\tserver\u001b[33m.\u001b[39muse(route \u001b[33m+\u001b[39m \u001b[32m'/test'\u001b[39m\u001b[33m,\u001b[39m sampleRoute)\u001b[33m;\u001b[39m\n" +
+    ' \u001b[90m 8 | \u001b[39m}\u001b[33m;\u001b[39m\u001b[0m\n' +
+    '    at Parser.pp$5.raise (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:4454:13)\n' +
+    '    at Parser.pp.unexpected (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1761:8)\n' +
+    '    at Parser.pp$1.parseVar (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2342:12)\n' +
+    '    at Parser.pp$1.parseVarStatement (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2169:8)\n' +
+    '    at Parser.pp$1.parseStatement (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1861:19)\n' +
+    '    at Parser.pp$1.parseBlockBody (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2268:21)\n' +
+    '    at Parser.pp$1.parseTopLevel (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1778:8)\n' +
+    '    at Parser.parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1673:17)\n' +
+    '    at parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:7305:37)\n' +
+    '    at File.parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:485:15)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:44:56 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6033,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 53895168,
+      heapTotal: 33763328,
+      heapUsed: 20242184,
+      external: 2019151
+    }
+  },
+  os: {
+    loadavg: [ 2.86572265625, 3.22265625, 2.95654296875 ],
+    uptime: 29188
+  },
+  trace: [
+    {
+      column: 13,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp$5.raise',
+      line: 4454,
+      method: 'raise',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp.unexpected',
+      line: 1761,
+      method: 'unexpected',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp$1.parseVar',
+      line: 2342,
+      method: 'parseVar',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp$1.parseVarStatement',
+      line: 2169,
+      method: 'parseVarStatement',
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp$1.parseStatement',
+      line: 1861,
+      method: 'parseStatement',
+      native: false
+    },
+    {
+      column: 21,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp$1.parseBlockBody',
+      line: 2268,
+      method: 'parseBlockBody',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp$1.parseTopLevel',
+      line: 1778,
+      method: 'parseTopLevel',
+      native: false
+    },
+    {
+      column: 17,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.parse',
+      line: 1673,
+      method: 'parse',
+      native: false
+    },
+    {
+      column: 37,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'parse',
+      line: 7305,
+      method: null,
+      native: false
+    },
+    {
+      column: 15,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js',
+      function: 'File.parse',
+      line: 485,
+      method: 'parse',
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:44:56'
+}
+{
+  error: SyntaxError: /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js: Unexpected token (4:0)
+  [0m [90m 2 | [39m[36mimport[39m sampleRoute from [32m'./sampleRoute'[39m[33m;[39m
+   [90m 3 | [39m[36mconst[39m sampleRoute
+  [31m[1m>[22m[39m[90m 4 | [39m[36mconst[39m route [33m=[39m [32m'/indext/api/v1'[39m[33m;[39m
+   [90m   | [39m[31m[1m^[22m[39m
+   [90m 5 | [39m[36mexport[39m [36mdefault[39m server [33m=>[39m {
+   [90m 6 | [39m	server[33m.[39muse(route [33m+[39m [32m'/test'[39m[33m,[39m sampleRoute)[33m;[39m
+   [90m 7 | [39m}[33m;[39m[0m
+      at Parser.pp$5.raise (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:4454:13)
+      at Parser.pp.unexpected (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1761:8)
+      at Parser.pp$1.parseVar (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2342:12)
+      at Parser.pp$1.parseVarStatement (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2169:8)
+      at Parser.pp$1.parseStatement (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1861:19)
+      at Parser.pp$1.parseBlockBody (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2268:21)
+      at Parser.pp$1.parseTopLevel (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1778:8)
+      at Parser.parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1673:17)
+      at parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:7305:37)
+      at File.parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:485:15) {
+    pos: 90,
+    loc: Position { line: 4, column: 0 },
+    _babel: true,
+    codeFrame: "\u001b[0m \u001b[90m 2 | \u001b[39m\u001b[36mimport\u001b[39m sampleRoute from \u001b[32m'./sampleRoute'\u001b[39m\u001b[33m;\u001b[39m\n" +
+      ' \u001b[90m 3 | \u001b[39m\u001b[36mconst\u001b[39m sampleRoute\n' +
+      "\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 4 | \u001b[39m\u001b[36mconst\u001b[39m route \u001b[33m=\u001b[39m \u001b[32m'/indext/api/v1'\u001b[39m\u001b[33m;\u001b[39m\n" +
+      ' \u001b[90m   | \u001b[39m\u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+      ' \u001b[90m 5 | \u001b[39m\u001b[36mexport\u001b[39m \u001b[36mdefault\u001b[39m server \u001b[33m=>\u001b[39m {\n' +
+      " \u001b[90m 6 | \u001b[39m\tserver\u001b[33m.\u001b[39muse(route \u001b[33m+\u001b[39m \u001b[32m'/test'\u001b[39m\u001b[33m,\u001b[39m sampleRoute)\u001b[33m;\u001b[39m\n" +
+      ' \u001b[90m 7 | \u001b[39m}\u001b[33m;\u001b[39m\u001b[0m'
+  },
+  level: 'error',
+  message: 'uncaughtException: /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js: Unexpected token (4:0)\n' +
+    'SyntaxError: /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js: Unexpected token (4:0)\n' +
+    "\u001b[0m \u001b[90m 2 | \u001b[39m\u001b[36mimport\u001b[39m sampleRoute from \u001b[32m'./sampleRoute'\u001b[39m\u001b[33m;\u001b[39m\n" +
+    ' \u001b[90m 3 | \u001b[39m\u001b[36mconst\u001b[39m sampleRoute\n' +
+    "\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 4 | \u001b[39m\u001b[36mconst\u001b[39m route \u001b[33m=\u001b[39m \u001b[32m'/indext/api/v1'\u001b[39m\u001b[33m;\u001b[39m\n" +
+    ' \u001b[90m   | \u001b[39m\u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+    ' \u001b[90m 5 | \u001b[39m\u001b[36mexport\u001b[39m \u001b[36mdefault\u001b[39m server \u001b[33m=>\u001b[39m {\n' +
+    " \u001b[90m 6 | \u001b[39m\tserver\u001b[33m.\u001b[39muse(route \u001b[33m+\u001b[39m \u001b[32m'/test'\u001b[39m\u001b[33m,\u001b[39m sampleRoute)\u001b[33m;\u001b[39m\n" +
+    ' \u001b[90m 7 | \u001b[39m}\u001b[33m;\u001b[39m\u001b[0m\n' +
+    '    at Parser.pp$5.raise (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:4454:13)\n' +
+    '    at Parser.pp.unexpected (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1761:8)\n' +
+    '    at Parser.pp$1.parseVar (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2342:12)\n' +
+    '    at Parser.pp$1.parseVarStatement (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2169:8)\n' +
+    '    at Parser.pp$1.parseStatement (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1861:19)\n' +
+    '    at Parser.pp$1.parseBlockBody (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2268:21)\n' +
+    '    at Parser.pp$1.parseTopLevel (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1778:8)\n' +
+    '    at Parser.parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1673:17)\n' +
+    '    at parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:7305:37)\n' +
+    '    at File.parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:485:15)',
+  stack: 'SyntaxError: /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js: Unexpected token (4:0)\n' +
+    "\u001b[0m \u001b[90m 2 | \u001b[39m\u001b[36mimport\u001b[39m sampleRoute from \u001b[32m'./sampleRoute'\u001b[39m\u001b[33m;\u001b[39m\n" +
+    ' \u001b[90m 3 | \u001b[39m\u001b[36mconst\u001b[39m sampleRoute\n' +
+    "\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 4 | \u001b[39m\u001b[36mconst\u001b[39m route \u001b[33m=\u001b[39m \u001b[32m'/indext/api/v1'\u001b[39m\u001b[33m;\u001b[39m\n" +
+    ' \u001b[90m   | \u001b[39m\u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+    ' \u001b[90m 5 | \u001b[39m\u001b[36mexport\u001b[39m \u001b[36mdefault\u001b[39m server \u001b[33m=>\u001b[39m {\n' +
+    " \u001b[90m 6 | \u001b[39m\tserver\u001b[33m.\u001b[39muse(route \u001b[33m+\u001b[39m \u001b[32m'/test'\u001b[39m\u001b[33m,\u001b[39m sampleRoute)\u001b[33m;\u001b[39m\n" +
+    ' \u001b[90m 7 | \u001b[39m}\u001b[33m;\u001b[39m\u001b[0m\n' +
+    '    at Parser.pp$5.raise (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:4454:13)\n' +
+    '    at Parser.pp.unexpected (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1761:8)\n' +
+    '    at Parser.pp$1.parseVar (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2342:12)\n' +
+    '    at Parser.pp$1.parseVarStatement (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2169:8)\n' +
+    '    at Parser.pp$1.parseStatement (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1861:19)\n' +
+    '    at Parser.pp$1.parseBlockBody (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:2268:21)\n' +
+    '    at Parser.pp$1.parseTopLevel (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1778:8)\n' +
+    '    at Parser.parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:1673:17)\n' +
+    '    at parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js:7305:37)\n' +
+    '    at File.parse (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:485:15)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:44:58 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6035,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 53272576,
+      heapTotal: 34287616,
+      heapUsed: 20107112,
+      external: 2019151
+    }
+  },
+  os: {
+    loadavg: [ 2.71630859375, 3.185546875, 2.94482421875 ],
+    uptime: 29190
+  },
+  trace: [
+    {
+      column: 13,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp$5.raise',
+      line: 4454,
+      method: 'raise',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp.unexpected',
+      line: 1761,
+      method: 'unexpected',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp$1.parseVar',
+      line: 2342,
+      method: 'parseVar',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp$1.parseVarStatement',
+      line: 2169,
+      method: 'parseVarStatement',
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp$1.parseStatement',
+      line: 1861,
+      method: 'parseStatement',
+      native: false
+    },
+    {
+      column: 21,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp$1.parseBlockBody',
+      line: 2268,
+      method: 'parseBlockBody',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.pp$1.parseTopLevel',
+      line: 1778,
+      method: 'parseTopLevel',
+      native: false
+    },
+    {
+      column: 17,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'Parser.parse',
+      line: 1673,
+      method: 'parse',
+      native: false
+    },
+    {
+      column: 37,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babylon/lib/index.js',
+      function: 'parse',
+      line: 7305,
+      method: null,
+      native: false
+    },
+    {
+      column: 15,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js',
+      function: 'File.parse',
+      line: 485,
+      method: 'parse',
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:44:58'
+}
+{
+  error: Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'
+  Require stack:
+  - /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js
+  - /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js
+  - /Users/martrudolphmacion/Desktop/indextbe/src/server.js
+  - /Users/martrudolphmacion/Desktop/indextbe/bin/dev
+      at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)
+      at Function.Module._load (internal/modules/cjs/loader.js:677:27)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)
+      at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12) {
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      '/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/src/server.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ]
+  },
+  level: 'error',
+  message: "uncaughtException: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    "Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:677:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)',
+  stack: "Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:677:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:45:00 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6037,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 58462208,
+      heapTotal: 52686848,
+      heapUsed: 24742608,
+      external: 1833978
+    }
+  },
+  os: {
+    loadavg: [ 2.71630859375, 3.185546875, 2.94482421875 ],
+    uptime: 29192
+  },
+  trace: [
+    {
+      column: 15,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._resolveFilename',
+      line: 772,
+      method: '_resolveFilename',
+      native: false
+    },
+    {
+      column: 27,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 677,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 1,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js',
+      function: null,
+      line: 4,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 5,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'loader',
+      line: 144,
+      method: null,
+      native: false
+    },
+    {
+      column: 7,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'Object.require.extensions.<computed> [as .js]',
+      line: 154,
+      method: 'js]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:45:00'
+}
+{
+  error: Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'
+  Require stack:
+  - /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js
+  - /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js
+  - /Users/martrudolphmacion/Desktop/indextbe/src/server.js
+  - /Users/martrudolphmacion/Desktop/indextbe/bin/dev
+      at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)
+      at Function.Module._load (internal/modules/cjs/loader.js:677:27)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)
+      at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12) {
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      '/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/src/server.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ]
+  },
+  level: 'error',
+  message: "uncaughtException: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    "Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:677:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)',
+  stack: "Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:677:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:45:17 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6038,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 53956608,
+      heapTotal: 50851840,
+      heapUsed: 17331944,
+      external: 1244915
+    }
+  },
+  os: {
+    loadavg: [ 2.26123046875, 3.0615234375, 2.90380859375 ],
+    uptime: 29209
+  },
+  trace: [
+    {
+      column: 15,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._resolveFilename',
+      line: 772,
+      method: '_resolveFilename',
+      native: false
+    },
+    {
+      column: 27,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 677,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 1,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js',
+      function: null,
+      line: 4,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 5,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'loader',
+      line: 144,
+      method: null,
+      native: false
+    },
+    {
+      column: 7,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'Object.require.extensions.<computed> [as .js]',
+      line: 154,
+      method: 'js]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:45:17'
+}
+{
+  error: Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'
+  Require stack:
+  - /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js
+  - /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js
+  - /Users/martrudolphmacion/Desktop/indextbe/src/server.js
+  - /Users/martrudolphmacion/Desktop/indextbe/bin/dev
+      at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)
+      at Function.Module._load (internal/modules/cjs/loader.js:677:27)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)
+      at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12) {
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      '/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/src/server.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ]
+  },
+  level: 'error',
+  message: "uncaughtException: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    "Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:677:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)',
+  stack: "Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:677:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:45:27 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6041,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 54140928,
+      heapTotal: 50327552,
+      heapUsed: 17301848,
+      external: 1244915
+    }
+  },
+  os: {
+    loadavg: [ 2.2080078125, 3.025390625, 2.89306640625 ],
+    uptime: 29219
+  },
+  trace: [
+    {
+      column: 15,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._resolveFilename',
+      line: 772,
+      method: '_resolveFilename',
+      native: false
+    },
+    {
+      column: 27,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 677,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 1,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js',
+      function: null,
+      line: 4,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 5,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'loader',
+      line: 144,
+      method: null,
+      native: false
+    },
+    {
+      column: 7,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'Object.require.extensions.<computed> [as .js]',
+      line: 154,
+      method: 'js]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:45:27'
+}
+{
+  error: Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'
+  Require stack:
+  - /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js
+  - /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js
+  - /Users/martrudolphmacion/Desktop/indextbe/src/server.js
+  - /Users/martrudolphmacion/Desktop/indextbe/bin/dev
+      at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)
+      at Function.Module._load (internal/modules/cjs/loader.js:677:27)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)
+      at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12) {
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      '/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/src/server.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ]
+  },
+  level: 'error',
+  message: "uncaughtException: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    "Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:677:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)',
+  stack: "Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:677:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:45:34 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6044,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 53886976,
+      heapTotal: 50589696,
+      heapUsed: 17395312,
+      external: 1244915
+    }
+  },
+  os: {
+    loadavg: [ 2.09521484375, 2.974609375, 2.87646484375 ],
+    uptime: 29226
+  },
+  trace: [
+    {
+      column: 15,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._resolveFilename',
+      line: 772,
+      method: '_resolveFilename',
+      native: false
+    },
+    {
+      column: 27,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 677,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 1,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js',
+      function: null,
+      line: 4,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 5,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'loader',
+      line: 144,
+      method: null,
+      native: false
+    },
+    {
+      column: 7,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'Object.require.extensions.<computed> [as .js]',
+      line: 154,
+      method: 'js]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:45:34'
+}
+{
+  error: Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'
+  Require stack:
+  - /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js
+  - /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js
+  - /Users/martrudolphmacion/Desktop/indextbe/src/server.js
+  - /Users/martrudolphmacion/Desktop/indextbe/bin/dev
+      at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)
+      at Function.Module._load (internal/modules/cjs/loader.js:677:27)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)
+      at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12) {
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      '/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/src/server.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ]
+  },
+  level: 'error',
+  message: "uncaughtException: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    "Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:677:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)',
+  stack: "Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:677:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:45:38 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6045,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 54067200,
+      heapTotal: 50589696,
+      heapUsed: 17405616,
+      external: 1244915
+    }
+  },
+  os: {
+    loadavg: [ 2.09521484375, 2.974609375, 2.87646484375 ],
+    uptime: 29230
+  },
+  trace: [
+    {
+      column: 15,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._resolveFilename',
+      line: 772,
+      method: '_resolveFilename',
+      native: false
+    },
+    {
+      column: 27,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 677,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 1,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js',
+      function: null,
+      line: 4,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 5,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'loader',
+      line: 144,
+      method: null,
+      native: false
+    },
+    {
+      column: 7,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'Object.require.extensions.<computed> [as .js]',
+      line: 154,
+      method: 'js]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:45:38'
+}
+{
+  error: ReferenceError: sampleRoute is not defined
+      at exports.default (/Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js:5:30)
+      at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/server.js:54:1)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)
+      at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/bin/dev:3:1),
+  level: 'error',
+  message: 'uncaughtException: sampleRoute is not defined\n' +
+    'ReferenceError: sampleRoute is not defined\n' +
+    '    at exports.default (/Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js:5:30)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/server.js:54:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/bin/dev:3:1)',
+  stack: 'ReferenceError: sampleRoute is not defined\n' +
+    '    at exports.default (/Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js:5:30)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/server.js:54:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/bin/dev:3:1)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:45:49 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6047,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 54243328,
+      heapTotal: 50589696,
+      heapUsed: 16878824,
+      external: 1189890
+    }
+  },
+  os: {
+    loadavg: [ 1.84521484375, 2.87646484375, 2.8427734375 ],
+    uptime: 29241
+  },
+  trace: [
+    {
+      column: 30,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js',
+      function: 'exports.default',
+      line: 5,
+      method: 'default',
+      native: false
+    },
+    {
+      column: 1,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/src/server.js',
+      function: null,
+      line: 54,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 5,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'loader',
+      line: 144,
+      method: null,
+      native: false
+    },
+    {
+      column: 7,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'Object.require.extensions.<computed> [as .js]',
+      line: 154,
+      method: 'js]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 1,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/bin/dev',
+      function: null,
+      line: 3,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:45:49'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 17:45:50'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 17:45:50'
+}
+{
+  error: ReferenceError: sampleRoute is not defined
+      at exports.default (/Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js:5:30)
+      at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/server.js:54:1)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)
+      at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/bin/dev:3:1),
+  level: 'error',
+  message: 'uncaughtException: sampleRoute is not defined\n' +
+    'ReferenceError: sampleRoute is not defined\n' +
+    '    at exports.default (/Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js:5:30)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/server.js:54:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/bin/dev:3:1)',
+  stack: 'ReferenceError: sampleRoute is not defined\n' +
+    '    at exports.default (/Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js:5:30)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/server.js:54:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/bin/dev:3:1)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:45:54 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6052,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 53817344,
+      heapTotal: 50851840,
+      heapUsed: 16819384,
+      external: 1189890
+    }
+  },
+  os: {
+    loadavg: [ 2.017578125, 2.89501953125, 2.84912109375 ],
+    uptime: 29246
+  },
+  trace: [
+    {
+      column: 30,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js',
+      function: 'exports.default',
+      line: 5,
+      method: 'default',
+      native: false
+    },
+    {
+      column: 1,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/src/server.js',
+      function: null,
+      line: 54,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 5,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'loader',
+      line: 144,
+      method: null,
+      native: false
+    },
+    {
+      column: 7,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'Object.require.extensions.<computed> [as .js]',
+      line: 154,
+      method: 'js]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 1,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/bin/dev',
+      function: null,
+      line: 3,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:45:54'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 17:45:54'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 17:45:54'
+}
+{
+  error: ReferenceError: sampleRoute is not defined
+      at exports.default (/Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js:4:30)
+      at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/server.js:54:1)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)
+      at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/bin/dev:3:1),
+  level: 'error',
+  message: 'uncaughtException: sampleRoute is not defined\n' +
+    'ReferenceError: sampleRoute is not defined\n' +
+    '    at exports.default (/Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js:4:30)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/server.js:54:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/bin/dev:3:1)',
+  stack: 'ReferenceError: sampleRoute is not defined\n' +
+    '    at exports.default (/Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js:4:30)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/server.js:54:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/bin/dev:3:1)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:45:59 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6056,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 56623104,
+      heapTotal: 52948992,
+      heapUsed: 21319552,
+      external: 1792777
+    }
+  },
+  os: {
+    loadavg: [ 2.17626953125, 2.9130859375, 2.85546875 ],
+    uptime: 29251
+  },
+  trace: [
+    {
+      column: 30,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js',
+      function: 'exports.default',
+      line: 4,
+      method: 'default',
+      native: false
+    },
+    {
+      column: 1,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/src/server.js',
+      function: null,
+      line: 54,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 5,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'loader',
+      line: 144,
+      method: null,
+      native: false
+    },
+    {
+      column: 7,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'Object.require.extensions.<computed> [as .js]',
+      line: 154,
+      method: 'js]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 1,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/bin/dev',
+      function: null,
+      line: 3,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:45:59'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 17:45:59'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 17:45:59'
+}
+{
+  error: Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'
+  Require stack:
+  - /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js
+  - /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js
+  - /Users/martrudolphmacion/Desktop/indextbe/src/server.js
+  - /Users/martrudolphmacion/Desktop/indextbe/bin/dev
+      at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)
+      at Function.Module._load (internal/modules/cjs/loader.js:677:27)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)
+      at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12) {
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      '/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/src/server.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ]
+  },
+  level: 'error',
+  message: "uncaughtException: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    "Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:677:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)',
+  stack: "Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:677:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:46:10 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6060,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 53968896,
+      heapTotal: 50851840,
+      heapUsed: 17290536,
+      external: 1244915
+    }
+  },
+  os: {
+    loadavg: [ 2.89208984375, 3.0458984375, 2.9033203125 ],
+    uptime: 29262
+  },
+  trace: [
+    {
+      column: 15,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._resolveFilename',
+      line: 772,
+      method: '_resolveFilename',
+      native: false
+    },
+    {
+      column: 27,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 677,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 1,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js',
+      function: null,
+      line: 4,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 5,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'loader',
+      line: 144,
+      method: null,
+      native: false
+    },
+    {
+      column: 7,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'Object.require.extensions.<computed> [as .js]',
+      line: 154,
+      method: 'js]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:46:10'
+}
+{
+  error: Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'
+  Require stack:
+  - /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js
+  - /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js
+  - /Users/martrudolphmacion/Desktop/indextbe/src/server.js
+  - /Users/martrudolphmacion/Desktop/indextbe/bin/dev
+      at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)
+      at Function.Module._load (internal/modules/cjs/loader.js:677:27)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)
+      at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12) {
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      '/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/src/server.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ]
+  },
+  level: 'error',
+  message: "uncaughtException: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    "Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:677:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)',
+  stack: "Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:677:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:46:18 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6062,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 53768192,
+      heapTotal: 50851840,
+      heapUsed: 17376776,
+      external: 1244915
+    }
+  },
+  os: {
+    loadavg: [ 2.740234375, 3.01171875, 2.89208984375 ],
+    uptime: 29270
+  },
+  trace: [
+    {
+      column: 15,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._resolveFilename',
+      line: 772,
+      method: '_resolveFilename',
+      native: false
+    },
+    {
+      column: 27,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 677,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 1,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js',
+      function: null,
+      line: 4,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 5,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'loader',
+      line: 144,
+      method: null,
+      native: false
+    },
+    {
+      column: 7,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'Object.require.extensions.<computed> [as .js]',
+      line: 154,
+      method: 'js]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:46:18'
+}
+{
+  error: Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'
+  Require stack:
+  - /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js
+  - /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js
+  - /Users/martrudolphmacion/Desktop/indextbe/src/server.js
+  - /Users/martrudolphmacion/Desktop/indextbe/bin/dev
+      at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)
+      at Function.Module._load (internal/modules/cjs/loader.js:677:27)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)
+      at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12) {
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      '/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/src/server.js',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ]
+  },
+  level: 'error',
+  message: "uncaughtException: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    "Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:677:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)',
+  stack: "Error: Cannot find module '../controllers/MachineAllocationController/getMachineAllocationController'\n" +
+    'Require stack:\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/routes/index.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/src/server.js\n' +
+    '- /Users/martrudolphmacion/Desktop/indextbe/bin/dev\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:772:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:677:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:46:20 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6064,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 56586240,
+      heapTotal: 52686848,
+      heapUsed: 21885744,
+      external: 1847802
+    }
+  },
+  os: {
+    loadavg: [ 2.6806640625, 2.99462890625, 2.88671875 ],
+    uptime: 29272
+  },
+  trace: [
+    {
+      column: 15,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._resolveFilename',
+      line: 772,
+      method: '_resolveFilename',
+      native: false
+    },
+    {
+      column: 27,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 677,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 1,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js',
+      function: null,
+      line: 4,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 5,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'loader',
+      line: 144,
+      method: null,
+      native: false
+    },
+    {
+      column: 7,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'Object.require.extensions.<computed> [as .js]',
+      line: 154,
+      method: 'js]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:46:20'
+}
+{
+  error: ReferenceError: getAll is not defined
+      at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js:4:5)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)
+      at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)
+      at Module._compile (internal/modules/cjs/loader.js:936:30),
+  level: 'error',
+  message: 'uncaughtException: getAll is not defined\n' +
+    'ReferenceError: getAll is not defined\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js:4:5)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)',
+  stack: 'ReferenceError: getAll is not defined\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js:4:5)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at loader (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:144:5)\n' +
+    '    at Object.require.extensions.<computed> [as .js] (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js:154:7)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js:4:1)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:47:30 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6068,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 54157312,
+      heapTotal: 50327552,
+      heapUsed: 18596912,
+      external: 1244915
+    }
+  },
+  os: {
+    loadavg: [ 4.0556640625, 3.3515625, 3.02783203125 ],
+    uptime: 29342
+  },
+  trace: [
+    {
+      column: 5,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js',
+      function: null,
+      line: 4,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 5,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'loader',
+      line: 144,
+      method: null,
+      native: false
+    },
+    {
+      column: 7,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-register/lib/node.js',
+      function: 'Object.require.extensions.<computed> [as .js]',
+      line: 154,
+      method: 'js]',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 1,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/src/routes/sampleRoute.js',
+      function: null,
+      line: 4,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:47:30'
+}
+{
+  error: TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"
+  [0m [90m  6 | [39m}[33m;[39m
+   [90m  7 | [39m
+  [31m[1m>[22m[39m[90m  8 | [39m[36mfunction[39m getSample(req[33m,[39m res) {
+   [90m    | [39m         [31m[1m^[22m[39m
+   [90m  9 | [39m    getSample(req)[33m;[39m
+   [90m 10 | [39m}[0m
+      at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)
+      at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)
+      at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)
+      at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)
+      at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)
+      at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)
+      at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)
+      at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)
+      at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)
+      at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16) {
+    loc: Position { line: 8, column: 9 },
+    _babel: true,
+    codeFrame: '\u001b[0m \u001b[90m  6 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+      ' \u001b[90m  7 | \u001b[39m\n' +
+      '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m  8 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+      ' \u001b[90m    | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+      ' \u001b[90m  9 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+      ' \u001b[90m 10 | \u001b[39m}\u001b[0m'
+  },
+  level: 'error',
+  message: 'uncaughtException: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    'TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    '\u001b[0m \u001b[90m  6 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m  7 | \u001b[39m\n' +
+    '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m  8 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+    ' \u001b[90m    | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+    ' \u001b[90m  9 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m 10 | \u001b[39m}\u001b[0m\n' +
+    '    at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)\n' +
+    '    at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)\n' +
+    '    at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)\n' +
+    '    at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)\n' +
+    '    at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)\n' +
+    '    at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)\n' +
+    '    at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)\n' +
+    '    at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)\n' +
+    '    at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)\n' +
+    '    at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16)',
+  stack: 'TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    '\u001b[0m \u001b[90m  6 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m  7 | \u001b[39m\n' +
+    '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m  8 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+    ' \u001b[90m    | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+    ' \u001b[90m  9 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m 10 | \u001b[39m}\u001b[0m\n' +
+    '    at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)\n' +
+    '    at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)\n' +
+    '    at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)\n' +
+    '    at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)\n' +
+    '    at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)\n' +
+    '    at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)\n' +
+    '    at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)\n' +
+    '    at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)\n' +
+    '    at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)\n' +
+    '    at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:48:36 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6111,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 56725504,
+      heapTotal: 53211136,
+      heapUsed: 20826120,
+      external: 1897719
+    }
+  },
+  os: {
+    loadavg: [ 2.41845703125, 3.01904296875, 2.92529296875 ],
+    uptime: 29408
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js',
+      function: 'File.buildCodeFrameError',
+      line: 427,
+      method: 'buildCodeFrameError',
+      native: false
+    },
+    {
+      column: 27,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.checkBlockScopedCollisions',
+      line: 398,
+      method: 'checkBlockScopedCollisions',
+      native: false
+    },
+    {
+      column: 16,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.registerBinding',
+      line: 592,
+      method: 'registerBinding',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.registerDeclaration',
+      line: 479,
+      method: 'registerDeclaration',
+      native: false
+    },
+    {
+      column: 28,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Object.BlockScoped',
+      line: 244,
+      method: 'BlockScoped',
+      native: false
+    },
+    {
+      column: 17,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js',
+      function: 'Object.newFn',
+      line: 318,
+      method: 'newFn',
+      native: false
+    },
+    {
+      column: 18,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath._call',
+      line: 76,
+      method: '_call',
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath.call',
+      line: 44,
+      method: 'call',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath.visit',
+      line: 105,
+      method: 'visit',
+      native: false
+    },
+    {
+      column: 16,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js',
+      function: 'TraversalContext.visitQueue',
+      line: 150,
+      method: 'visitQueue',
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:48:36'
+}
+{
+  error: TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"
+  [0m [90m  6 | [39m}[33m;[39m
+   [90m  7 | [39m
+  [31m[1m>[22m[39m[90m  8 | [39m[36mfunction[39m getSample(req[33m,[39m res) {
+   [90m    | [39m         [31m[1m^[22m[39m
+   [90m  9 | [39m    getSample(req)[33m;[39m
+   [90m 10 | [39m}[0m
+      at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)
+      at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)
+      at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)
+      at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)
+      at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)
+      at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)
+      at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)
+      at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)
+      at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)
+      at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16) {
+    loc: Position { line: 8, column: 9 },
+    _babel: true,
+    codeFrame: '\u001b[0m \u001b[90m  6 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+      ' \u001b[90m  7 | \u001b[39m\n' +
+      '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m  8 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+      ' \u001b[90m    | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+      ' \u001b[90m  9 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+      ' \u001b[90m 10 | \u001b[39m}\u001b[0m'
+  },
+  level: 'error',
+  message: 'uncaughtException: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    'TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    '\u001b[0m \u001b[90m  6 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m  7 | \u001b[39m\n' +
+    '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m  8 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+    ' \u001b[90m    | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+    ' \u001b[90m  9 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m 10 | \u001b[39m}\u001b[0m\n' +
+    '    at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)\n' +
+    '    at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)\n' +
+    '    at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)\n' +
+    '    at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)\n' +
+    '    at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)\n' +
+    '    at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)\n' +
+    '    at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)\n' +
+    '    at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)\n' +
+    '    at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)\n' +
+    '    at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16)',
+  stack: 'TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    '\u001b[0m \u001b[90m  6 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m  7 | \u001b[39m\n' +
+    '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m  8 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+    ' \u001b[90m    | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+    ' \u001b[90m  9 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m 10 | \u001b[39m}\u001b[0m\n' +
+    '    at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)\n' +
+    '    at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)\n' +
+    '    at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)\n' +
+    '    at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)\n' +
+    '    at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)\n' +
+    '    at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)\n' +
+    '    at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)\n' +
+    '    at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)\n' +
+    '    at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)\n' +
+    '    at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:48:48 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6115,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 56934400,
+      heapTotal: 53211136,
+      heapUsed: 22283256,
+      external: 1897719
+    }
+  },
+  os: {
+    loadavg: [ 2.193359375, 2.95166015625, 2.90185546875 ],
+    uptime: 29420
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js',
+      function: 'File.buildCodeFrameError',
+      line: 427,
+      method: 'buildCodeFrameError',
+      native: false
+    },
+    {
+      column: 27,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.checkBlockScopedCollisions',
+      line: 398,
+      method: 'checkBlockScopedCollisions',
+      native: false
+    },
+    {
+      column: 16,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.registerBinding',
+      line: 592,
+      method: 'registerBinding',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.registerDeclaration',
+      line: 479,
+      method: 'registerDeclaration',
+      native: false
+    },
+    {
+      column: 28,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Object.BlockScoped',
+      line: 244,
+      method: 'BlockScoped',
+      native: false
+    },
+    {
+      column: 17,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js',
+      function: 'Object.newFn',
+      line: 318,
+      method: 'newFn',
+      native: false
+    },
+    {
+      column: 18,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath._call',
+      line: 76,
+      method: '_call',
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath.call',
+      line: 44,
+      method: 'call',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath.visit',
+      line: 105,
+      method: 'visit',
+      native: false
+    },
+    {
+      column: 16,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js',
+      function: 'TraversalContext.visitQueue',
+      line: 150,
+      method: 'visitQueue',
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:48:48'
+}
+{
+  error: TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"
+  [0m [90m  6 | [39m}[33m;[39m
+   [90m  7 | [39m
+  [31m[1m>[22m[39m[90m  8 | [39m[36mfunction[39m getSample(req[33m,[39m res) {
+   [90m    | [39m         [31m[1m^[22m[39m
+   [90m  9 | [39m    getSample(req)[33m;[39m
+   [90m 10 | [39m}[0m
+      at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)
+      at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)
+      at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)
+      at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)
+      at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)
+      at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)
+      at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)
+      at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)
+      at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)
+      at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16) {
+    loc: Position { line: 8, column: 9 },
+    _babel: true,
+    codeFrame: '\u001b[0m \u001b[90m  6 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+      ' \u001b[90m  7 | \u001b[39m\n' +
+      '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m  8 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+      ' \u001b[90m    | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+      ' \u001b[90m  9 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+      ' \u001b[90m 10 | \u001b[39m}\u001b[0m'
+  },
+  level: 'error',
+  message: 'uncaughtException: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    'TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    '\u001b[0m \u001b[90m  6 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m  7 | \u001b[39m\n' +
+    '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m  8 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+    ' \u001b[90m    | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+    ' \u001b[90m  9 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m 10 | \u001b[39m}\u001b[0m\n' +
+    '    at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)\n' +
+    '    at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)\n' +
+    '    at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)\n' +
+    '    at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)\n' +
+    '    at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)\n' +
+    '    at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)\n' +
+    '    at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)\n' +
+    '    at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)\n' +
+    '    at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)\n' +
+    '    at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16)',
+  stack: 'TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    '\u001b[0m \u001b[90m  6 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m  7 | \u001b[39m\n' +
+    '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m  8 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+    ' \u001b[90m    | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+    ' \u001b[90m  9 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m 10 | \u001b[39m}\u001b[0m\n' +
+    '    at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)\n' +
+    '    at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)\n' +
+    '    at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)\n' +
+    '    at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)\n' +
+    '    at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)\n' +
+    '    at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)\n' +
+    '    at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)\n' +
+    '    at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)\n' +
+    '    at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)\n' +
+    '    at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:48:51 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6117,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 53829632,
+      heapTotal: 50851840,
+      heapUsed: 16901800,
+      external: 1235154
+    }
+  },
+  os: { loadavg: [ 2.177734375, 2.935546875, 2.896484375 ], uptime: 29423 },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js',
+      function: 'File.buildCodeFrameError',
+      line: 427,
+      method: 'buildCodeFrameError',
+      native: false
+    },
+    {
+      column: 27,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.checkBlockScopedCollisions',
+      line: 398,
+      method: 'checkBlockScopedCollisions',
+      native: false
+    },
+    {
+      column: 16,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.registerBinding',
+      line: 592,
+      method: 'registerBinding',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.registerDeclaration',
+      line: 479,
+      method: 'registerDeclaration',
+      native: false
+    },
+    {
+      column: 28,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Object.BlockScoped',
+      line: 244,
+      method: 'BlockScoped',
+      native: false
+    },
+    {
+      column: 17,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js',
+      function: 'Object.newFn',
+      line: 318,
+      method: 'newFn',
+      native: false
+    },
+    {
+      column: 18,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath._call',
+      line: 76,
+      method: '_call',
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath.call',
+      line: 44,
+      method: 'call',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath.visit',
+      line: 105,
+      method: 'visit',
+      native: false
+    },
+    {
+      column: 16,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js',
+      function: 'TraversalContext.visitQueue',
+      line: 150,
+      method: 'visitQueue',
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:48:51'
+}
+{
+  error: TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"
+  [0m [90m  6 | [39m}[33m;[39m
+   [90m  7 | [39m
+  [31m[1m>[22m[39m[90m  8 | [39m[36mfunction[39m getSample(req[33m,[39m res) {
+   [90m    | [39m         [31m[1m^[22m[39m
+   [90m  9 | [39m    getSample(req)[33m;[39m
+   [90m 10 | [39m}[0m
+      at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)
+      at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)
+      at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)
+      at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)
+      at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)
+      at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)
+      at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)
+      at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)
+      at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)
+      at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16) {
+    loc: Position { line: 8, column: 9 },
+    _babel: true,
+    codeFrame: '\u001b[0m \u001b[90m  6 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+      ' \u001b[90m  7 | \u001b[39m\n' +
+      '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m  8 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+      ' \u001b[90m    | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+      ' \u001b[90m  9 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+      ' \u001b[90m 10 | \u001b[39m}\u001b[0m'
+  },
+  level: 'error',
+  message: 'uncaughtException: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    'TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    '\u001b[0m \u001b[90m  6 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m  7 | \u001b[39m\n' +
+    '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m  8 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+    ' \u001b[90m    | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+    ' \u001b[90m  9 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m 10 | \u001b[39m}\u001b[0m\n' +
+    '    at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)\n' +
+    '    at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)\n' +
+    '    at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)\n' +
+    '    at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)\n' +
+    '    at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)\n' +
+    '    at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)\n' +
+    '    at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)\n' +
+    '    at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)\n' +
+    '    at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)\n' +
+    '    at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16)',
+  stack: 'TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    '\u001b[0m \u001b[90m  6 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m  7 | \u001b[39m\n' +
+    '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m  8 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+    ' \u001b[90m    | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+    ' \u001b[90m  9 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m 10 | \u001b[39m}\u001b[0m\n' +
+    '    at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)\n' +
+    '    at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)\n' +
+    '    at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)\n' +
+    '    at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)\n' +
+    '    at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)\n' +
+    '    at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)\n' +
+    '    at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)\n' +
+    '    at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)\n' +
+    '    at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)\n' +
+    '    at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:49:39 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6126,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 54067200,
+      heapTotal: 50589696,
+      heapUsed: 16856648,
+      external: 1235154
+    }
+  },
+  os: {
+    loadavg: [ 2.31396484375, 2.8515625, 2.86572265625 ],
+    uptime: 29471
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js',
+      function: 'File.buildCodeFrameError',
+      line: 427,
+      method: 'buildCodeFrameError',
+      native: false
+    },
+    {
+      column: 27,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.checkBlockScopedCollisions',
+      line: 398,
+      method: 'checkBlockScopedCollisions',
+      native: false
+    },
+    {
+      column: 16,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.registerBinding',
+      line: 592,
+      method: 'registerBinding',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.registerDeclaration',
+      line: 479,
+      method: 'registerDeclaration',
+      native: false
+    },
+    {
+      column: 28,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Object.BlockScoped',
+      line: 244,
+      method: 'BlockScoped',
+      native: false
+    },
+    {
+      column: 17,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js',
+      function: 'Object.newFn',
+      line: 318,
+      method: 'newFn',
+      native: false
+    },
+    {
+      column: 18,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath._call',
+      line: 76,
+      method: '_call',
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath.call',
+      line: 44,
+      method: 'call',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath.visit',
+      line: 105,
+      method: 'visit',
+      native: false
+    },
+    {
+      column: 16,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js',
+      function: 'TraversalContext.visitQueue',
+      line: 150,
+      method: 'visitQueue',
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:49:39'
+}
+{
+  error: TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"
+  [0m [90m  6 | [39m}[33m;[39m
+   [90m  7 | [39m
+  [31m[1m>[22m[39m[90m  8 | [39m[36mfunction[39m getSample(req[33m,[39m res) {
+   [90m    | [39m         [31m[1m^[22m[39m
+   [90m  9 | [39m    getSample(req)[33m;[39m
+   [90m 10 | [39m}[0m
+      at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)
+      at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)
+      at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)
+      at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)
+      at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)
+      at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)
+      at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)
+      at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)
+      at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)
+      at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16) {
+    loc: Position { line: 8, column: 9 },
+    _babel: true,
+    codeFrame: '\u001b[0m \u001b[90m  6 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+      ' \u001b[90m  7 | \u001b[39m\n' +
+      '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m  8 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+      ' \u001b[90m    | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+      ' \u001b[90m  9 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+      ' \u001b[90m 10 | \u001b[39m}\u001b[0m'
+  },
+  level: 'error',
+  message: 'uncaughtException: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    'TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    '\u001b[0m \u001b[90m  6 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m  7 | \u001b[39m\n' +
+    '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m  8 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+    ' \u001b[90m    | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+    ' \u001b[90m  9 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m 10 | \u001b[39m}\u001b[0m\n' +
+    '    at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)\n' +
+    '    at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)\n' +
+    '    at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)\n' +
+    '    at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)\n' +
+    '    at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)\n' +
+    '    at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)\n' +
+    '    at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)\n' +
+    '    at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)\n' +
+    '    at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)\n' +
+    '    at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16)',
+  stack: 'TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    '\u001b[0m \u001b[90m  6 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m  7 | \u001b[39m\n' +
+    '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m  8 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+    ' \u001b[90m    | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+    ' \u001b[90m  9 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m 10 | \u001b[39m}\u001b[0m\n' +
+    '    at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)\n' +
+    '    at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)\n' +
+    '    at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)\n' +
+    '    at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)\n' +
+    '    at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)\n' +
+    '    at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)\n' +
+    '    at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)\n' +
+    '    at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)\n' +
+    '    at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)\n' +
+    '    at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:49:43 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6129,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 54353920,
+      heapTotal: 50851840,
+      heapUsed: 16818136,
+      external: 1235154
+    }
+  },
+  os: {
+    loadavg: [ 2.28857421875, 2.83740234375, 2.8603515625 ],
+    uptime: 29475
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js',
+      function: 'File.buildCodeFrameError',
+      line: 427,
+      method: 'buildCodeFrameError',
+      native: false
+    },
+    {
+      column: 27,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.checkBlockScopedCollisions',
+      line: 398,
+      method: 'checkBlockScopedCollisions',
+      native: false
+    },
+    {
+      column: 16,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.registerBinding',
+      line: 592,
+      method: 'registerBinding',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.registerDeclaration',
+      line: 479,
+      method: 'registerDeclaration',
+      native: false
+    },
+    {
+      column: 28,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Object.BlockScoped',
+      line: 244,
+      method: 'BlockScoped',
+      native: false
+    },
+    {
+      column: 17,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js',
+      function: 'Object.newFn',
+      line: 318,
+      method: 'newFn',
+      native: false
+    },
+    {
+      column: 18,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath._call',
+      line: 76,
+      method: '_call',
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath.call',
+      line: 44,
+      method: 'call',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath.visit',
+      line: 105,
+      method: 'visit',
+      native: false
+    },
+    {
+      column: 16,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js',
+      function: 'TraversalContext.visitQueue',
+      line: 150,
+      method: 'visitQueue',
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:49:43'
+}
+{
+  error: TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"
+  [0m [90m 4 | [39m}[33m;[39m
+   [90m 5 | [39m
+  [31m[1m>[22m[39m[90m 6 | [39m[36mfunction[39m getSample(req[33m,[39m res) {
+   [90m   | [39m         [31m[1m^[22m[39m
+   [90m 7 | [39m    getSample(req)[33m;[39m
+   [90m 8 | [39m}[0m
+      at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)
+      at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)
+      at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)
+      at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)
+      at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)
+      at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)
+      at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)
+      at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)
+      at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)
+      at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16) {
+    loc: Position { line: 6, column: 9 },
+    _babel: true,
+    codeFrame: '\u001b[0m \u001b[90m 4 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+      ' \u001b[90m 5 | \u001b[39m\n' +
+      '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 6 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+      ' \u001b[90m   | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+      ' \u001b[90m 7 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+      ' \u001b[90m 8 | \u001b[39m}\u001b[0m'
+  },
+  level: 'error',
+  message: 'uncaughtException: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    'TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    '\u001b[0m \u001b[90m 4 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m 5 | \u001b[39m\n' +
+    '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 6 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+    ' \u001b[90m   | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+    ' \u001b[90m 7 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m 8 | \u001b[39m}\u001b[0m\n' +
+    '    at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)\n' +
+    '    at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)\n' +
+    '    at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)\n' +
+    '    at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)\n' +
+    '    at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)\n' +
+    '    at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)\n' +
+    '    at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)\n' +
+    '    at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)\n' +
+    '    at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)\n' +
+    '    at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16)',
+  stack: 'TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    '\u001b[0m \u001b[90m 4 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m 5 | \u001b[39m\n' +
+    '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 6 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+    ' \u001b[90m   | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+    ' \u001b[90m 7 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m 8 | \u001b[39m}\u001b[0m\n' +
+    '    at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)\n' +
+    '    at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)\n' +
+    '    at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)\n' +
+    '    at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)\n' +
+    '    at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)\n' +
+    '    at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)\n' +
+    '    at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)\n' +
+    '    at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)\n' +
+    '    at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)\n' +
+    '    at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:50:27 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6141,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 53886976,
+      heapTotal: 50851840,
+      heapUsed: 16758416,
+      external: 1235154
+    }
+  },
+  os: {
+    loadavg: [ 2.2138671875, 2.7353515625, 2.8193359375 ],
+    uptime: 29519
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js',
+      function: 'File.buildCodeFrameError',
+      line: 427,
+      method: 'buildCodeFrameError',
+      native: false
+    },
+    {
+      column: 27,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.checkBlockScopedCollisions',
+      line: 398,
+      method: 'checkBlockScopedCollisions',
+      native: false
+    },
+    {
+      column: 16,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.registerBinding',
+      line: 592,
+      method: 'registerBinding',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.registerDeclaration',
+      line: 479,
+      method: 'registerDeclaration',
+      native: false
+    },
+    {
+      column: 28,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Object.BlockScoped',
+      line: 244,
+      method: 'BlockScoped',
+      native: false
+    },
+    {
+      column: 17,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js',
+      function: 'Object.newFn',
+      line: 318,
+      method: 'newFn',
+      native: false
+    },
+    {
+      column: 18,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath._call',
+      line: 76,
+      method: '_call',
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath.call',
+      line: 44,
+      method: 'call',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath.visit',
+      line: 105,
+      method: 'visit',
+      native: false
+    },
+    {
+      column: 16,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js',
+      function: 'TraversalContext.visitQueue',
+      line: 150,
+      method: 'visitQueue',
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:50:27'
+}
+{
+  error: TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"
+  [0m [90m 4 | [39m}[33m;[39m
+   [90m 5 | [39m
+  [31m[1m>[22m[39m[90m 6 | [39m[36mfunction[39m getSample(req[33m,[39m res) {
+   [90m   | [39m         [31m[1m^[22m[39m
+   [90m 7 | [39m    getSample(req)[33m;[39m
+   [90m 8 | [39m}[0m
+      at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)
+      at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)
+      at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)
+      at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)
+      at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)
+      at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)
+      at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)
+      at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)
+      at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)
+      at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16) {
+    loc: Position { line: 6, column: 9 },
+    _babel: true,
+    codeFrame: '\u001b[0m \u001b[90m 4 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+      ' \u001b[90m 5 | \u001b[39m\n' +
+      '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 6 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+      ' \u001b[90m   | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+      ' \u001b[90m 7 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+      ' \u001b[90m 8 | \u001b[39m}\u001b[0m'
+  },
+  level: 'error',
+  message: 'uncaughtException: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    'TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    '\u001b[0m \u001b[90m 4 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m 5 | \u001b[39m\n' +
+    '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 6 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+    ' \u001b[90m   | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+    ' \u001b[90m 7 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m 8 | \u001b[39m}\u001b[0m\n' +
+    '    at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)\n' +
+    '    at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)\n' +
+    '    at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)\n' +
+    '    at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)\n' +
+    '    at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)\n' +
+    '    at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)\n' +
+    '    at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)\n' +
+    '    at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)\n' +
+    '    at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)\n' +
+    '    at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16)',
+  stack: 'TypeError: /Users/martrudolphmacion/Desktop/indextbe/src/controllers/sampleController/getSample.js: Duplicate declaration "getSample"\n' +
+    '\u001b[0m \u001b[90m 4 | \u001b[39m}\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m 5 | \u001b[39m\n' +
+    '\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 6 | \u001b[39m\u001b[36mfunction\u001b[39m getSample(req\u001b[33m,\u001b[39m res) {\n' +
+    ' \u001b[90m   | \u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n' +
+    ' \u001b[90m 7 | \u001b[39m    getSample(req)\u001b[33m;\u001b[39m\n' +
+    ' \u001b[90m 8 | \u001b[39m}\u001b[0m\n' +
+    '    at File.buildCodeFrameError (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js:427:15)\n' +
+    '    at Scope.checkBlockScopedCollisions (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:398:27)\n' +
+    '    at Scope.registerBinding (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:592:16)\n' +
+    '    at Scope.registerDeclaration (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:479:12)\n' +
+    '    at Object.BlockScoped (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js:244:28)\n' +
+    '    at Object.newFn (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js:318:17)\n' +
+    '    at NodePath._call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:76:18)\n' +
+    '    at NodePath.call (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:44:14)\n' +
+    '    at NodePath.visit (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js:105:12)\n' +
+    '    at TraversalContext.visitQueue (/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js:150:16)',
+  exception: true,
+  date: 'Tue Feb 18 2020 17:50:51 GMT+0800 (Philippine Standard Time)',
+  process: {
+    pid: 6146,
+    uid: 502,
+    gid: 20,
+    cwd: '/Users/martrudolphmacion/Desktop/indextbe',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.10.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/martrudolphmacion/Desktop/indextbe/bin/dev'
+    ],
+    memoryUsage: {
+      rss: 53854208,
+      heapTotal: 50851840,
+      heapUsed: 16900936,
+      external: 1235154
+    }
+  },
+  os: {
+    loadavg: [ 2.5029296875, 2.767578125, 2.8291015625 ],
+    uptime: 29543
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-core/lib/transformation/file/index.js',
+      function: 'File.buildCodeFrameError',
+      line: 427,
+      method: 'buildCodeFrameError',
+      native: false
+    },
+    {
+      column: 27,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.checkBlockScopedCollisions',
+      line: 398,
+      method: 'checkBlockScopedCollisions',
+      native: false
+    },
+    {
+      column: 16,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.registerBinding',
+      line: 592,
+      method: 'registerBinding',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Scope.registerDeclaration',
+      line: 479,
+      method: 'registerDeclaration',
+      native: false
+    },
+    {
+      column: 28,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/scope/index.js',
+      function: 'Object.BlockScoped',
+      line: 244,
+      method: 'BlockScoped',
+      native: false
+    },
+    {
+      column: 17,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/visitors.js',
+      function: 'Object.newFn',
+      line: 318,
+      method: 'newFn',
+      native: false
+    },
+    {
+      column: 18,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath._call',
+      line: 76,
+      method: '_call',
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath.call',
+      line: 44,
+      method: 'call',
+      native: false
+    },
+    {
+      column: 12,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/path/context.js',
+      function: 'NodePath.visit',
+      line: 105,
+      method: 'visit',
+      native: false
+    },
+    {
+      column: 16,
+      file: '/Users/martrudolphmacion/Desktop/indextbe/node_modules/babel-traverse/lib/context.js',
+      function: 'TraversalContext.visitQueue',
+      line: 150,
+      method: 'visitQueue',
+      native: false
+    }
+  ],
+  timestamp: '2020-02-18 17:50:51'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 17:50:54'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 17:50:54'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 17:50:58'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 17:50:58'
+}
+{
+  message: '::1 - - [18/Feb/2020:09:51:03 +0000] "GET /indext/api/v1/test HTTP/1.1" 404 157 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2020-02-18 17:51:03'
+}
+{
+  message: '::1 - - [18/Feb/2020:09:52:33 +0000] "GET /indext/api/v1/sample HTTP/1.1" - - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2020-02-18 17:52:33'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 17:53:14'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 17:53:14'
+}
+{
+  message: '::1 - - [18/Feb/2020:09:53:20 +0000] "GET /indext/api/v1/sample HTTP/1.1" 200 2 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2020-02-18 17:53:20'
+}
+{
+  message: '::1 - - [18/Feb/2020:09:53:20 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:8081/indext/api/v1/sample" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2020-02-18 17:53:20'
+}
+{
+  message: 'Server started in development mode.',
+  level: 'info',
+  timestamp: '2020-02-18 17:53:36'
+}
+{
+  message: 'Listening at port 8081',
+  level: 'info',
+  timestamp: '2020-02-18 17:53:36'
+}
+{
+  message: '::1 - - [18/Feb/2020:09:53:37 +0000] "GET /indext/api/v1/sample HTTP/1.1" 200 29 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2020-02-18 17:53:37'
+}
